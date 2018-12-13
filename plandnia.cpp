@@ -31,6 +31,7 @@ void planOut() {
 //int main(), czyli jak sama nazwa wskazuje to jest główna funkcja programu; ta, która jest początkiem programu. w nim na początku wywołujemy funkcję wpisania punktów, po czym funkcję wypisania punktów
 int main() {
   planIn();
+  //planIn2();
   
   while (1==1) {
     //while powtarza kod dopóki to, co jest w nawiasie jest prawdą. jako że 1 zawsze się równa 1, będzie się powtarzało nieszkończoność razy
